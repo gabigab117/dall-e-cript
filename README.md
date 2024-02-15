@@ -14,7 +14,7 @@ Before you get started, you will need:
 
 - An active subscription to OpenAI and the API key.
 ## Installation
-Install Python Dependencies: You need to have Python installed on your system. The project is tested on Python 3.x.
+Install Python Dependencies: You need to have Python installed on your system.
 
 Install Required Libraries:
 
