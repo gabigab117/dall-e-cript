@@ -8,9 +8,11 @@ Customizable: Can be extended and modified for more complex use cases.
 ## Requirements
 Before you get started, you will need:
 
-Python 3.x
-openai Python library
-An active subscription to OpenAI and the API key.
+- Python 3
+
+- openai Python library
+
+- An active subscription to OpenAI and the API key.
 ## Installation
 Install Python Dependencies: You need to have Python installed on your system. The project is tested on Python 3.x.
 
